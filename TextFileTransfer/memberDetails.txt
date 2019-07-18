@@ -1,0 +1,15 @@
+Details of members.
+
+Member 1
+
+name of the member: Tom Kabula
+ID of new member:     2
+date of enrollment:   1/7/2019
+Recommended by another member?   N
+
+Member 2
+
+name of the member: Jane Kabula
+ID of new member:     2
+date of enrollment:   2/7/2019
+Recommended by another member?   Y
