@@ -1,0 +1,5 @@
+typecasting during socket programming in c
+
+meaning of & e.g in &num1
+
+use of rewind() function e.g rewind(f) ...f being a pointer
